@@ -13,10 +13,10 @@ require (
 	github.com/rs/cors v1.8.2
 	github.com/spf13/cobra v1.3.0
 	github.com/stretchr/testify v1.7.0
-	github.com/uptrace/bun v1.1.1
+	github.com/uptrace/bun v1.1.8
 	github.com/uptrace/bun/dialect/pgdialect v1.1.1
-	github.com/uptrace/bun/driver/pgdriver v1.1.1
-	golang.org/x/crypto v0.0.0-20220214200702-86341886e292
+	github.com/uptrace/bun/driver/pgdriver v1.1.8
+	golang.org/x/crypto v0.0.0-20220826181053-bd7e27e6170d
 	google.golang.org/grpc v1.44.0
 )
 
@@ -87,7 +87,7 @@ require (
 	github.com/whyrusleeping/go-logging v0.0.1 // indirect
 	github.com/x448/float16 v0.8.4 // indirect
 	golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2 // indirect
-	golang.org/x/sys v0.0.0-20220227234510-4e6760a101f9 // indirect
+	golang.org/x/sys v0.0.0-20220825204002-c680a09ffe64 // indirect
 	golang.org/x/text v0.3.7 // indirect
 	google.golang.org/genproto v0.0.0-20211208223120-3a66f561d7aa // indirect
 	google.golang.org/grpc/security/advancedtls v0.0.0-20200902210233-8630cac324bf // indirect
@@ -96,5 +96,5 @@ require (
 	gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
-	mellium.im/sasl v0.2.1 // indirect
+	mellium.im/sasl v0.3.0 // indirect
 )
